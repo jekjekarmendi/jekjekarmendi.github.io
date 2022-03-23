@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+### Welcome to JekJek Armedi's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/jekjekarmendi/jekjekarmendi.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Owned by Karl Jerome Armendi
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+"Talent wins game, but teamwork and intelligence wins championship." - Michael Jordan -
 
-### Markdown
+Michael Jordan
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+https://www.youtube.com/watch?v=EGgnEIX5f4E
 
-```markdown
-Syntax highlighted code block
+Gilas Pilipinas
 
-# Header 1
-## Header 2
-### Header 3
+https://www.youtube.com/watch?v=8wgwsWzVFaI
 
-- Bulleted
-- List
+https://www.youtube.com/watch?v=HgR83yHENEw
 
-1. Numbered
-2. List
+Stephen Curry
 
-**Bold** and _Italic_ and `Code` text
+https://www.youtube.com/watch?v=P5_xgip67ac
 
-[Link](url) and ![Image](src)
-```
+UAAP Season 81
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+https://www.youtube.com/watch?v=11wXUwgTZ6c
 
-### Jekyll Themes
+https://www.youtube.com/watch?v=IzebIDu3iTw
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jekjekarmendi/jekjekarmendi.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+THANKS!!!
